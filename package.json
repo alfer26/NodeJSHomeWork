@@ -1,0 +1,19 @@
+{
+  "name": "nodejshomework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yaroslav",
+  "license": "ISC",
+  "description": "Homework on Node.js and NPM",
+  "dependencies": {
+    "express": "^4.21.0",
+    "pg": "^8.13.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
